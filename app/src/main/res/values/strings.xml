@@ -88,6 +88,9 @@
     <string name="remember_launch_mode_summary">Remember last launch mode used for every app</string>
     <string name="launch_games_fullscreen_title">Launch games in full screen</string>
     <string name="launch_games_fullscreen_summary">Launch apps detected as games in full screen by default</string>
+	<string name="user_info">User info</string>
+	<string name="user_name">Name</string>
+	<string name="user_avatar">Avatar</string>
 
     <!-- Dock page -->
     <string name="dock">Dock</string>
@@ -184,9 +187,9 @@
     <string name="long_press_a_notification_to_a">Long press a notification to add it to the ignored list</string>
     <string name="silenced_notifications">Silenced notifications for this app</string>
     <string name="enable_notif_panel_title">Enable notification panel</string>
-    <string name="do_not_disturb">Do not disturb</string>
-    <string name="do_not_disturb_summary">Disable notification pop-ups</string>
-
+    <string name="show_notifications">Show notification pop-ups</string>
+	<string name="popups_disabled">Notification pop-ups disabled</string>
+   
     <!-- Hot corners page -->
     <string name="hot_corners">Hot Corners</string>
     <string name="enable_corner_top_right_title">Enable top right corner</string>
@@ -198,7 +201,7 @@
     <!-- Advanced page -->
     <string name="advanced">Advanced</string>
     <string name="these_settings_are_intended_fo">These settings are intended for advanced users. Only change them if you know what you are doing</string>
-    <string name="prefer_last_display">Prefer last attached display (Android 10+)</string>
+    <string name="prefer_last_display">Prefer last attached display</string>
     <string name="prefer_last_display_summary">Prefer the last attached display for displaying apps and the dock</string>
     <string name="restart_accessibility">Changing this setting requires restarting the Accessibility service</string>
     <string name="open_accessibility">Open Accessibility</string>
@@ -213,6 +216,8 @@
     <string name="custom_display_size_title">Display size</string>
     <string name="custom_display_size_summary">Allows you to fine tune the display size of screen elements. Needs reboot</string>
     <string name="custom_display_size_hint">leave blank for default</string>
+	<string name="disable_heads_up">Disable notification heads-up</string>
+	<string name="disable_heads_up_summary">Disables Android\'s notification pop-ups</string>
     <string name="scale_factor_title">Standard window scale factor</string>
     <string name="scale_factor_summary">Defines how big standard windows are</string>
     <string name="allow_app_freeze_title">Show an option to disable apps from the app context menu</string>
